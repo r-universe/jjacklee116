@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bacistool"]
+	path = bacistool
+	url = https://github.com/cran/bacistool
+	shallow = true
+	registered = true
+[submodule "BCHM"]
+	path = BCHM
+	url = https://github.com/cran/BCHM
+	shallow = true
+	registered = true
