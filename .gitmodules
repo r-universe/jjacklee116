@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bacistool"]
-	path = bacistool
-	url = https://github.com/cran/bacistool
 [submodule "BCHM"]
 	path = BCHM
 	url = https://github.com/cran/BCHM
+[submodule "bacistool"]
+	path = bacistool
+	url = https://github.com/cran/bacistool
